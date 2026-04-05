@@ -24,6 +24,12 @@ An advanced full-stack project that combines **real-time collaborative coding** 
 
 ---
 
+
+## 📌 Screenshots
+
+![Editor Screenshot](./Screenshot 2026-04-05 220335.png)
+![Explain Code Screenshot](./Screenshot 2026-04-05 223835.png)
+
 ## 📂 Project Structure
 ai-code-editor/
 ├─ server/ # Node.js backend
@@ -54,7 +60,3 @@ npm install
 npm start
 
 
-## 📌 Screenshots
-
-![Editor Screenshot](./Screenshot 2026-04-05 220335.png)
-![Explain Code Screenshot](./Screenshot 2026-04-05 223835.png)
