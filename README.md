@@ -54,10 +54,3 @@ npm install
 npm start
 
 
----
-
-# ✅ Next Step
-
-1. Create a folder `screenshots` in your repo:  
-```powershell
-mkdir screenshots
