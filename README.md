@@ -27,8 +27,9 @@ An advanced full-stack project that combines **real-time collaborative coding** 
 
 ## 📌 Screenshots
 
-![Editor Screenshot](./Screenshot 2026-04-05 220335.png)
-![Explain Code Screenshot](./Screenshot 2026-04-05 223835.png)
+<img width="942" height="607" alt="Screenshot 2026-04-05 220335" src="https://github.com/user-attachments/assets/7b2b393e-f187-4922-aa6c-8db87924b4ae" />
+<img width="1918" height="971" alt="Screenshot 2026-04-05 223835" src="https://github.com/user-attachments/assets/487e419f-8a5d-418a-9d0d-4363341a6c72" />
+
 
 ## 📂 Project Structure
 ai-code-editor/
