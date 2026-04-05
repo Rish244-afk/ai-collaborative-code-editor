@@ -54,3 +54,7 @@ npm install
 npm start
 
 
+## 📌 Screenshots
+
+![Editor Screenshot](./Screenshot 2026-04-05 220335.png)
+![Explain Code Screenshot](./Screenshot 2026-04-05 223835.png)
